@@ -1,0 +1,1 @@
+3dmaskdump -o thalamus_voxel_ts.txt -mask thalamus_voxel_mask.nii.gz sample.nii.gz
